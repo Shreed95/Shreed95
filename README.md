@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Shreed! 👋
 
-<!--
-**Shreed95/Shreed95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer with intermediate skills in the MERN stack. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my skills in React and Node.js.
+- 🌱 I’m currently learning TypeScript to enhance my development capabilities.
+- 👯 I’m looking to collaborate on open-source projects related to Web Development.
+- 💬 Ask me about my experience with the MERN stack or any other web development topics.
+- 📫 You can connect with me at [LinkedIn](linkedin.com/in/shreed-raskar-646b20254).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new technologies and experimenting with different programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my projects and repositories! Let's connect and build something amazing together.
